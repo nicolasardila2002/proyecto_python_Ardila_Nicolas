@@ -1,0 +1,62 @@
+[
+    {
+        "ano": 2018,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1250000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2019,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1270000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2020,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1300000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2021,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1320000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2022,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1350000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    },
+    {
+        "ano": 2023,
+        "pais": "India",
+        "codigo_iso3": "IND",
+        "indicador_id": "SP.POP.TOTL",
+        "descripcion": "Total de población",
+        "valor": 1380000000,
+        "estado": "disponible",
+        "unidad": "personas"
+    }
+]
